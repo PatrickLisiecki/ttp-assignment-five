@@ -1,6 +1,6 @@
 # TTP Assignment 5
 
-Assignment for Tech Talent Pipeline Summer 2023 bootcamp
+Assignment for the Tech Talent Pipeline Summer 2023 Bootcamp
 
 ## Installation
 To install and run the project locally, follow these steps:
