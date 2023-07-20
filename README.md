@@ -10,7 +10,7 @@ To install and run the project locally, follow these steps:
    git clone https://github.com/PatrickLisiecki/ttp-assignment-five
    ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory.
 
 3. Install dependencies:
    ```ps
